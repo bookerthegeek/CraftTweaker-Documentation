@@ -9,16 +9,18 @@ mods.techreborn.alloySmelter.addRecipe(<minecraft:gold_block>, <minecraft:sand>,
 mods.techreborn.alloySmelter.addRecipe(<minecraft:iron_block>, <minecraft:sand> * 3, <minecraft:iron_ore>, 40, 500);
 ```
 
+
 Removal
 ------
 Remove by input:
+
 //mods.techreborn.alloySmelter.removeInputRecipe(Input)
 ```java
 mods.techreborn.alloySmelter.removeInputRecipe(<techreborn:ingot:4>);
 mods.techreborn.alloySmelter.removeInputRecipe(<ore:dustCopper>);
 ```
-
 Remove by output
+
 //mods.techreborn.alloySmelter.removeRecipe(output)
 ```java
 mods.techreborn.alloySmelter.removeRecipe(<techreborn:ingot:5>);
