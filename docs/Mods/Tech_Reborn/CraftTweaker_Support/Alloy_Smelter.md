@@ -1,7 +1,7 @@
 # Alloy Smelter
 
 ```java
-mods.techreborn.alloySmelter.removeInputRecipe(IIngredient iIngredient);
+//mods.techreborn.alloySmelter.removeInputRecipe(IIngredient iIngredient);
 ```
 
 ```java
