@@ -1,5 +1,4 @@
 # Alloy Smelter
-## Calling The Package
 You can call the AlloySmelter package using `mods.techreborn.alloySmelter`
 
 Addition
