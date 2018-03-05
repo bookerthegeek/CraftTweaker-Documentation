@@ -1,5 +1,5 @@
-# 
-You can call the ### package using `import mods.techreborn.alloySmelter`
+# Alloy Smelter
+You can call the Alloy Smelter package using `import mods.techreborn.alloySmelter;`
 
 Addition
 ------
