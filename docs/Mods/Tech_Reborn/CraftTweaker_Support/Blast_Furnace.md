@@ -1,5 +1,5 @@
 # Blast Furnace
-You can call the ### package using `import mods.techreborn.blastFurnace`
+You can call the Blast Furnace package using `import mods.techreborn.blastFurnace`
 
 Addition
 ------
