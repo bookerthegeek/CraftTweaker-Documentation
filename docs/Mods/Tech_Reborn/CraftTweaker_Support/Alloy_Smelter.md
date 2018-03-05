@@ -1,5 +1,5 @@
-# Alloy Smelter
-You can call the AlloySmelter package using `mods.techreborn.alloySmelter`
+# 
+You can call the ### package using `import mods.techreborn.alloySmelter`
 
 Addition
 ------
@@ -8,10 +8,9 @@ Addition
 mods.techreborn.alloySmelter.addRecipe(<minecraft:gold_block>, <minecraft:sand>, <minecraft:gold_ore>, 40, 500);
 mods.techreborn.alloySmelter.addRecipe(<minecraft:iron_block>, <minecraft:sand> * 3, <minecraft:iron_ore>, 40, 500);
 ```
-
 Removal
 ------
-//mods.techreborn.alloySmelter.removeInputRecipe(Input)
+//mods.techreborn.removeInputRecipe(Input)
 ```java
 mods.techreborn.alloySmelter.removeInputRecipe(<techreborn:ingot:4>);
 mods.techreborn.alloySmelter.removeInputRecipe(<ore:dustCopper>);
